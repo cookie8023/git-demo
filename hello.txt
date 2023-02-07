@@ -1,3 +1,4 @@
 Hello!
 Hello Git!
 Master test
+NewMaster test
